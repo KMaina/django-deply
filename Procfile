@@ -1,1 +1,1 @@
-web: gunicorn heyapp.wsgi --log-file -
+web: gunicorn heyapp.wsgi
